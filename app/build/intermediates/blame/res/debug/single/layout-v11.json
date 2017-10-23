@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\gabriela.almeida\\AndroidStudioProjects\\Listofallapps2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\gabriela.almeida\\.android\\build-cache\\1c077fd7648637d7a6728e94f7af870e9662ada2\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabriela.almeida\\AndroidStudioProjects\\Listofallapps2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\gabriela.almeida\\.android\\build-cache\\1c077fd7648637d7a6728e94f7af870e9662ada2\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabriela.almeida\\AndroidStudioProjects\\Listofallapps2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\gabriela.almeida\\.android\\build-cache\\1c077fd7648637d7a6728e94f7af870e9662ada2\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabriela.almeida\\AndroidStudioProjects\\Listofallapps2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\gabriela.almeida\\.android\\build-cache\\1c077fd7648637d7a6728e94f7af870e9662ada2\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabriela.almeida\\AndroidStudioProjects\\Listofallapps2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\gabriela.almeida\\.android\\build-cache\\1c077fd7648637d7a6728e94f7af870e9662ada2\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabriela.almeida\\AndroidStudioProjects\\Listofallapps2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\gabriela.almeida\\.android\\build-cache\\1c077fd7648637d7a6728e94f7af870e9662ada2\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]
